@@ -1,0 +1,24 @@
+SPEAKER 0 00:00:00
+ your file format is just nodes and links.
+SPEAKER 0 00:00:03
+ And you have to interpret what they mean yourself.
+SPEAKER 1 00:00:06
+ And why did you not choose that?
+SPEAKER 0 00:00:08
+ Because I knew that we were doing speech,
+SPEAKER 0 00:00:10
+ and I thought it was better if you're looking at a raw file
+SPEAKER 0 00:00:14
+ for the tags to say, it's an utterance, as opposed to the
+SPEAKER 0 00:00:16
+ tag to say, it's a link.
+SPEAKER 2 00:00:18
+ OK.
+SPEAKER 2 00:00:19
+ But other than that, are they compatible?
+SPEAKER 0 00:00:22
+ Yeah, they're reasonably compatible.
+SPEAKER 0 00:00:23
+ You could probably translate between them.
+SPEAKER 0 00:00:26
+ So while the other thing is, if we choose to use
