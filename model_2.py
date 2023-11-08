@@ -1,5 +1,4 @@
 from pyannote.audio.pipelines import SpeakerDiarization
-from pyannote.core import Segment
 import whisper
 import sys
 
